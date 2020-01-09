@@ -10,7 +10,7 @@ _This is Arduino Based Smart Walking Cane for Visually Impaired People with foll
 
 ![](Images/Block_Diagram.jpg)
 
-**Block diagram of the Smart Cane**
+**Block Diagram**
 
 ![](Images/Smart_Walking_Cane.jpg)
 
