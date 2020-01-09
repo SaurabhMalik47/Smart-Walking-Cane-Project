@@ -1,7 +1,7 @@
 # Arduino Based Smart Walking Cane (Saurabh Malik)
 
 
-_This is Arduino Based Smart Walking Cane for Visually Impaired People with following 5 Functions:_
+_The Arduino Based Smart Walking Cane for Visually Impaired People has following 5 Functions:_
 1) Obstacle Detection
 2) Water Detection
 3) Darkness Detection
