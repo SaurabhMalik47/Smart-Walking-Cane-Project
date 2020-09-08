@@ -17,5 +17,5 @@ _The Arduino Based Smart Walking Cane for Visually Impaired People has following
 ## Remote
 ![](Images/Remote.jpg)
 
-## Paper Published @ IEEE Xplore
+## Paper Published @ IEEE Xplore Digital Library
 ![](Images/Paper_Published.jpg)
