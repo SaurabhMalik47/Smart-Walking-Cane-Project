@@ -8,7 +8,7 @@ _The Arduino Based Smart Walking Cane for Visually Impaired People has following
 4) Finding Cane
 5) Emergency Button
 
-** Block Diagram
+## Block Diagram
 ![](Images/Block_Diagram.jpg)
 
 ## Smart Walking Cane
@@ -18,4 +18,4 @@ _The Arduino Based Smart Walking Cane for Visually Impaired People has following
 ![](Images/Remote.jpg)
 
 ## Paper Published @ IEEE Xplore
-![](Images/RemotePaper_Published.jpg)
+![](Images/Paper_Published.jpg)
